@@ -995,8 +995,6 @@ ul {
   list-style-image: url("../images/bullet.png");
 }
 
-u2 {
-}
 
 strong {
   font-family: 'OpenSansBold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
@@ -1063,6 +1061,8 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
+
+.tab { margin-left: 22px; }
 
 th {
   text-align: left;
