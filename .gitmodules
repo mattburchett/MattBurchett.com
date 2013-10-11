@@ -1,0 +1,3 @@
+[submodule "oldsites"]
+	path = oldsites
+	url = git://github.com/mattburchett/oldsites
